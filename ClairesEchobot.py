@@ -1,0 +1,8 @@
+print("hi I'm a character")
+print("v")
+stuff_to_echo = input("what in the ... hello world : ")
+print("umm: " + stuff_to_echo)
+print("next, please")
+print("tell me all the secrets in the world")
+print("no none done")
+print("whats!!!!!!!!!!!!!!!!!!!")
